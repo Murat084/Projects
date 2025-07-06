@@ -1,0 +1,18 @@
+$color1: #061c2a;
+$color2: #f6ad2b;
+$color3: #d9d9d9;
+$color4: #7fbde4;
+$color5: #d9d9d942;
+$color6: rgb(0, 180, 0);
+
+// BOOTSTRAP VARIABLES
+$primary: $color1 !default;
+$secondary: $color2 !default;
+$success: $color3 !default;
+$info: $color4 !default;
+$warning: $color5 !default;
+
+/* SWEETALERT */
+$swal2-confirm-button-background-color: $color1;
+$swal2-cancel-button-background-color: $color2;
+$swal2-success: $color6;
